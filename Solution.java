@@ -10,10 +10,10 @@ public class Solution {
       String inputString = scan.nextLine(); // read a line of input and save it to a variable
       scan.close(); // close the scanner
       
-      // Your first line of output goes here
+      // Your first line of output goes here.
       System.out.println("Hello, World.");
       
-      // Write the second line of output
+      // Write the second line of output.
       System.out.println(inputString);
    }
 }
